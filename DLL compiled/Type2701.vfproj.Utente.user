@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualStudioUserFile ProjectType="typeDynamicLibrary" ProjectCreator="Intel Fortran" Keyword="Dll" Version="11.0" ProjectIdGuid="{EA0C3D18-8854-4844-84DC-82F0A6E40094}">
+	<Configurations>
+		<Configuration Name="Debug|Win32" Command="C:\Trnsys17\Exe\TRNExe.exe"/>
+		<Configuration Name="Debug|x64"/>
+		<Configuration Name="Release|Win32"/>
+		<Configuration Name="Release|x64"/></Configurations></VisualStudioUserFile>
