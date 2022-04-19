@@ -1,1 +1,2 @@
 In the folder "C:\Trnsys17\Compilers\Ivf11x" create a new one with the name "Type2701"
+Inside the created folder insert the files "Type2701.f90", "Type2701.vfproj" and "Type2701.vfproj.Utente.user" together with the Debug folder.
