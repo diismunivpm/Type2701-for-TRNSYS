@@ -1,0 +1,13 @@
+In Ivf11x folder "C:\Trnsys17\Compilers\Ivf11x":
+- create the folder "Type2701".
+In Type2701 folder "C:\Trnsys17\Compilers\Ivf11x\Type2701":
+- create the folder "Debug" ("C:\Trnsys17\Compilers\Ivf11x\Type2701\Debug") and insert the files contained in the "Debug" section in "DLL compiled".
+- enter the file "Type2701.f90" ("C:\Trnsys17\Compilers\Ivf11x\Type2701\Type2701.f90").
+- enter the file Type2701.vfproj.Utente.user ("C:\Trnsys17\Compilers\Ivf11x\Type2701\Type2701.vfproj.Utente.user").
+In Proformas "C:\Trnsys17\Studio\Proformas":
+- create the folder "New Components (DIISM_UnivPM)" ("C:\Trnsys17\Studio\Proformas\New Components (DIISM_UnivPM)").
+- inside the latter create the folder "HVAC" ("C:\Trnsys17\Studio\Proformas\New Components (DIISM_UnivPM)\HVAC").
+In DebugDLLs ("C:\Trnsys17\UserLib\DebugDLLs"):
+- enter the file "Type2701.dll" ("C:\Trnsys17\UserLib\DebugDLLs\Type2701.dll").
+In ReleaseDLLs ("C:\Trnsys17\UserLib\ReleaseDLLs"):
+- enter the file "Type2701.dll" ("C:\Trnsys17\UserLib\ReleaseDLLs\Type2701.dll").
