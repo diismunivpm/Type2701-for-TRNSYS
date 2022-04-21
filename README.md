@@ -14,7 +14,7 @@ The Type2701 is OpenSource software under BSD 3-Clause license and anyone can us
 for details read the file LICENSE.txt.
 
 The repository contains:
--	Type2701 source code in Fortran 
+-	Type2701 source code in Fortran (file "Type2701.f90")
 -	DLL compiled
 -	Batch file of the paths where to insert the folders
 -	Sample catalog data
