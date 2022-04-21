@@ -14,10 +14,10 @@ The Type2701 is OpenSource software under BSD 3-Clause license and anyone can us
 for details read the file LICENSE.txt.
 
 The repository contains:
--	Type2701 source code (Fortran)
--	dll compiled
+-	Type2701 source code in Fortran 
+-	DLL compiled
 -	Batch file of the paths where to insert the folders
--	Data catalog example
+-	Sample catalog data
 
 For any problem or question please contact:
 -	Patricia Ercoli p.ercoli@pm.univpm.it
