@@ -16,7 +16,7 @@ for details read the file LICENSE.txt.
 The repository contains:
 -	Type2701 source code in Fortran ("Type2701.f90" file in "DLL compiled")
 -	DLL compiled
--	Batch file of the paths where to insert the folders
+-	Batch file of the paths where to insert folders and files
 -	Sample catalog data
 
 For any problem or question please contact:
