@@ -8,6 +8,7 @@ In particular, given the indications contained in EN 14825:2018, through perform
 the capacity and the COP through interpolation of the performance curve to the variation of the external temperature, 
 of the delivery water temperature and of the capacity ratio (CR). Below the minimum modulation CR, the degraded COP is calculated 
 according to the indications given within the standard.
+As sample catalog data an air-water heat pump from Viessman was taken (Viessmann, 2020).
 
 At the moment being a preliminary model, the type does not currently take into account the effects due to defrosting.
 The Type2701 is OpenSource software under BSD 3-Clause license and anyone can use it and add his contribution to the development;
@@ -23,3 +24,6 @@ For any problem or question please contact:
 -	Patricia Ercoli p.ercoli@pm.univpm.it
 -	Alice Mugnini a.mugnini@univpm.it
 -	Alessia Arteconi a.arteconi@univpm.it
+
+References:
+Viessmann. 2020. “VITOCAL 250-S: Air-to-water heat pump for hybrid operation 1.1 - 13.4 kW” commercial datasheet.
