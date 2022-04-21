@@ -1,5 +1,5 @@
 # Type2701-for-TRNSYS
-Type2701 is an extension of the existing type inside the standard library of TRNSYS (TRNSYS 17, 2014), capable of simulating a variable capacity 
+Type2701 version 1.0 is an extension of the existing type inside the standard library of TRNSYS (TRNSYS 17, 2014), capable of simulating a variable capacity 
 air-water heat pump for heating.
 This model is based on user-supplied data files containing catalog data for the capacity (total capacity in heating mode) and 
 Coefficient of Performance (COP).
