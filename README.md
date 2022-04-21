@@ -4,7 +4,7 @@ Type2701 is an extension of the existing type inside the standard library of TRN
 air-water heat pump for heating.
 This model is based on user-supplied data files containing catalog data for the capacity (total capacity in heating mode) and 
 Coefficient of Performance (COP).
-In particular, given the indications contained in EN 14825:2018, through performance map the model is able to calculate 
+In particular, given the indications contained in EN 14825:2018 (CEN, 2018), through performance map the model is able to calculate 
 the capacity and the COP through interpolation of the performance curve to the variation of the external temperature, 
 of the delivery water temperature and of the capacity ratio (CR). Below the minimum modulation CR, the degraded COP is calculated 
 according to the indications given within the standard.
@@ -26,4 +26,5 @@ For any problem or question please contact:
 -	Alessia Arteconi a.arteconi@univpm.it
 
 References:
-Viessmann. 2020. “VITOCAL 250-S: Air-to-water heat pump for hybrid operation 1.1 - 13.4 kW” commercial datasheet.
+- CEN (European Committee for Standardization), Standard EN 14825:2018. 2018. Air Conditioners, Liquid Chilling Packages and Heat Pumps, with Electrically Driven Compressors, for Space Heating and Cooling – Testing and Rating at Part Load Conditions and Calculation of Seasonal Performance
+- Viessmann. 2020. “VITOCAL 250-S: Air-to-water heat pump for hybrid operation 1.1 - 13.4 kW” commercial datasheet.
