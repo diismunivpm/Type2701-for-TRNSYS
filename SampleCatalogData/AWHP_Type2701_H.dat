@@ -1,0 +1,47 @@
+!Rated Capacity and COP choosen at T_supply = 35°, T_outdoor = 7 and CR = 1							
+35	45						!SUPPLY TEMPERATURE
+-7	-2	2	7	12			!DRY BULB TEMPERATURE
+0.42	0.62	0.81	1				!CAPACITY RATIO
+							
+0.2585	0.5867						!Fraction capacity and COP at T_supply = 35 °C, Dry_bulb = -7 °C and part_load = 0.42
+0.3868	0.6289						!Fraction capacity and COP at T_supply = 35 °C, Dry_bulb = -7 °C and part_load = 0.62
+0.5038	0.6422						!Fraction capacity and COP at T_supply = 35 °C, Dry_bulb = -7 °C and part_load = 0.81
+0.6094	0.5733						!Fraction capacity and COP at T_supply = 35 °C, Dry_bulb = -7 °C and part_load = 1
+0.2830	0.6378						!Fraction capacity and COP at T_supply = 35 °C, Dry_bulb = -2 °C and part_load = 0.42
+0.4245	0.6822						!Fraction capacity and COP at T_supply = 35 °C, Dry_bulb = -2 °C and part_load = 0.62
+0.5528	0.6978						!Fraction capacity and COP at T_supply = 35 °C, Dry_bulb = -2 °C and part_load = 0.81
+0.6811	0.7000						!Fraction capacity and COP at T_supply = 35 °C, Dry_bulb = -2 °C and part_load = 1
+0.2981	0.6733						!Fraction capacity and COP at T_supply = 35 °C, Dry_bulb = 2 °C and part_load = 0.42
+0.4472	0.7200						!Fraction capacity and COP at T_supply = 35 °C, Dry_bulb = 2 °C and part_load = 0.62
+0.5811	0.7356						!Fraction capacity and COP at T_supply = 35 °C, Dry_bulb = 2 °C and part_load = 0.81
+0.7170	0.7378						!Fraction capacity and COP at T_supply = 35 °C, Dry_bulb = 2 °C and part_load = 1
+0.4151	0.9556						!Fraction capacity and COP at T_supply = 35 °C, Dry_bulb = 7 °C and part_load = 0.42
+0.6226	1.0222						!Fraction capacity and COP at T_supply = 35 °C, Dry_bulb = 7 °C and part_load = 0.62
+0.8113	1.0444						!Fraction capacity and COP at T_supply = 35 °C, Dry_bulb = 7 °C and part_load = 0.81
+1.0000	1.0000						!Fraction capacity and COP at T_supply = 35 °C, Dry_bulb = 7 °C and part_load = 1
+0.4434	0.9889						!Fraction capacity and COP at T_supply = 35 °C, Dry_bulb = 12 °C and part_load = 0.42
+0.6642	1.0578						!Fraction capacity and COP at T_supply = 35 °C, Dry_bulb = 12 °C and part_load = 0.62
+0.8660	1.0822						!Fraction capacity and COP at T_supply = 35 °C, Dry_bulb = 12 °C and part_load = 0.81
+1.0660	1.0044						!Fraction capacity and COP at T_supply = 35 °C, Dry_bulb = 12 °C and part_load = 1
+0.2396	0.4556						!Fraction capacity and COP at T_supply = 45 °C, Dry_bulb = -7 °C and part_load = 0.42
+0.3585	0.4867						!Fraction capacity and COP at T_supply = 45 °C, Dry_bulb = -7 °C and part_load = 0.62
+0.4679	0.4978						!Fraction capacity and COP at T_supply = 45 °C, Dry_bulb = -7 °C and part_load = 0.81
+0.5660	0.5111						!Fraction capacity and COP at T_supply = 45 °C, Dry_bulb = -7 °C and part_load = 1
+0.2623	0.4956						!Fraction capacity and COP at T_supply = 45 °C, Dry_bulb = -2 °C and part_load = 0.42
+0.3943	0.5289						!Fraction capacity and COP at T_supply = 45 °C, Dry_bulb = -2 °C and part_load = 0.62
+0.5132	0.5400						!Fraction capacity and COP at T_supply = 45 °C, Dry_bulb = -2 °C and part_load = 0.81
+0.6321	0.5533						!Fraction capacity and COP at T_supply = 45 °C, Dry_bulb = -2 °C and part_load = 1
+0.2774	0.5444						!Fraction capacity and COP at T_supply = 45 °C, Dry_bulb = 2 °C and part_load = 0.42
+0.4151	0.5822						!Fraction capacity and COP at T_supply = 45 °C, Dry_bulb = 2 °C and part_load = 0.62
+0.5396	0.5956						!Fraction capacity and COP at T_supply = 45 °C, Dry_bulb = 2 °C and part_load = 0.81
+0.6660	0.6111						!Fraction capacity and COP at T_supply = 45 °C, Dry_bulb = 2 °C and part_load = 1
+0.3849	0.7911						!Fraction capacity and COP at T_supply = 45 °C, Dry_bulb = 7 °C and part_load = 0.42
+0.5792	0.8467						!Fraction capacity and COP at T_supply = 45 °C, Dry_bulb = 7 °C and part_load = 0.62
+0.7528	0.7889						!Fraction capacity and COP at T_supply = 45 °C, Dry_bulb = 7 °C and part_load = 0.81
+0.9283	0.8889						!Fraction capacity and COP at T_supply = 45 °C, Dry_bulb = 7 °C and part_load = 1
+0.4113	0.8711						!Fraction capacity and COP at T_supply = 45 °C, Dry_bulb = 12 °C and part_load = 0.42
+0.6170	0.9311						!Fraction capacity and COP at T_supply = 45 °C, Dry_bulb = 12 °C and part_load = 0.62
+0.8038	0.8689						!Fraction capacity and COP at T_supply = 45 °C, Dry_bulb = 12 °C and part_load = 0.81
+0.9906	0.9778						!Fraction capacity and COP at T_supply = 45 °C, Dry_bulb = 12 °C and part_load = 1
+
+
