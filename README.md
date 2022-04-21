@@ -1,6 +1,5 @@
 # Type2701-for-TRNSYS
-New type for TRNSYS
-Type2701 is an extension of the existing type inside the standard library of TRNSYS, capable of simulating a variable capacity 
+Type2701 is an extension of the existing type inside the standard library of TRNSYS (TRNSYS 17, 2014), capable of simulating a variable capacity 
 air-water heat pump for heating.
 This model is based on user-supplied data files containing catalog data for the capacity (total capacity in heating mode) and 
 Coefficient of Performance (COP).
@@ -27,4 +26,5 @@ For any problem or question please contact:
 
 References:
 - CEN (European Committee for Standardization), Standard EN 14825:2018. 2018. Air Conditioners, Liquid Chilling Packages and Heat Pumps, with Electrically Driven Compressors, for Space Heating and Cooling – Testing and Rating at Part Load Conditions and Calculation of Seasonal Performance
+- TRNSYS 17 - Transient System Simulation Tool. 2014. Version 17.2, Solar Energy Laboratory, University of Wisconsin, Madison, USA.
 - Viessmann. 2020. “VITOCAL 250-S: Air-to-water heat pump for hybrid operation 1.1 - 13.4 kW” commercial datasheet.
