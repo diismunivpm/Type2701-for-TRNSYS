@@ -3,18 +3,14 @@ message: "If you use this software, please cite it as below."
 authors:
 - family-names: "Ercoli"
   given-names: "Patricia"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
 - family-names: "Mugnini"
   given-names: "Alice"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
-- family-names: "Arteconi"
-  given-names: "Alessia"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
 - family-names: "Casci Ceccacci"
   given-names: "Michele"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Arteconi"
+  given-names: "Alessia"
 title: "Type2701-for-TRNSYS"
 version: 1.0.0
-doi: 10.5281/zenodo.1234
-date-released: 2022-07-08
 url: "https://github.com/diismunivpm/Type2701-for-TRNSYS"
+date-released: 2022-07-08
+
