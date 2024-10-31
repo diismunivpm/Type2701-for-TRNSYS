@@ -19,10 +19,7 @@ For any problem or question please contact:
 -	Alessia Arteconi a.arteconi@univpm.it
 
 Example of application:
--Hybrid Heat Pump Systems: Is Predictive Control Worth Using?
-Ercoli, P., Mugnini, A., Polonara, F., Arteconi, A.
-Proceedings of Building Simulation Applications, 2022, pp. 25–32.
- https://publications.ibpsa.org/conference/paper/?id=bsa2022_9788860461919_04
+- Ercoli, P., Mugnini, A., Polonara, F., Arteconi, A., Hybrid Heat Pump Systems: Is Predictive Control Worth Using?, Proceedings of Building Simulation Applications, 2022, pp. 25–32. https://publications.ibpsa.org/conference/paper/?id=bsa2022_9788860461919_04
 
 References:
 - CEN (European Committee for Standardization), Standard EN 14825:2018. 2018. Air Conditioners, Liquid Chilling Packages and Heat Pumps, with Electrically Driven Compressors, for Space Heating and Cooling – Testing and Rating at Part Load Conditions and Calculation of Seasonal Performance
