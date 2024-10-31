@@ -18,7 +18,7 @@ For any problem or question please contact:
 -	Alice Mugnini a.mugnini@univpm.it
 -	Alessia Arteconi a.arteconi@univpm.it
 
-Example of application:
+#Example of application:
 Hybrid Heat Pump Systems: Is Predictive Control Worth Using?
 Ercoli, P., Mugnini, A., Polonara, F., Arteconi, A.
 Proceedings of Building Simulation Applications, 2022, pp. 25–32.
