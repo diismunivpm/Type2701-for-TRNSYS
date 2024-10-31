@@ -18,6 +18,12 @@ For any problem or question please contact:
 -	Alice Mugnini a.mugnini@univpm.it
 -	Alessia Arteconi a.arteconi@univpm.it
 
+Example of application:
+Hybrid Heat Pump Systems: Is Predictive Control Worth Using?
+Ercoli, P., Mugnini, A., Polonara, F., Arteconi, A.
+Proceedings of Building Simulation Applications, 2022, pp. 25–32.
+url = https://publications.ibpsa.org/conference/paper/?id=bsa2022_9788860461919_04
+
 References:
 - CEN (European Committee for Standardization), Standard EN 14825:2018. 2018. Air Conditioners, Liquid Chilling Packages and Heat Pumps, with Electrically Driven Compressors, for Space Heating and Cooling – Testing and Rating at Part Load Conditions and Calculation of Seasonal Performance
 - TRNSYS 17 - Transient System Simulation Tool. 2014. Version 17.2, Solar Energy Laboratory, University of Wisconsin, Madison, USA.
